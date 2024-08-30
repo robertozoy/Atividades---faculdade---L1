@@ -1,3 +1,8 @@
+/*Teorema de Pitágoras: H² = L1² + L2² . Tem uma infinidade de números com essa
+combinação. Dado dois números inteiros positivos, M e N, onde M>N, desenvolver
+um algoritmo para entrar com dois números positivos e fornecer os valores dos
+lados e da Hipotenusa do triângulo gerados combinando M e N.*/
+
 #include <stdio.h>
 
 int main() {

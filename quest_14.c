@@ -1,3 +1,6 @@
+/*Dados quatro números distintos, desenvolver um algoritmo que determine e
+imprima a soma dos três menores.*/
+
 #include <stdio.h>
 
 int main() {

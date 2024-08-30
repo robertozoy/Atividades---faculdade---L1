@@ -1,3 +1,8 @@
+/*Uma locadora de charretes cobra R$ 10,00 de taxa para cada 3 horas de uso destas
+e R$5,00 para cada 1 hora abaixo destas 3 horas. Fazer um algoritmo que dado a
+quantidade de horas que a charrete foi usada calcular e escrever quanto o cliente
+tem de pagar.*/
+
 #include <stdio.h>
 
 int main() {

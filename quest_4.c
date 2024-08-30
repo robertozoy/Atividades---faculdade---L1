@@ -1,3 +1,6 @@
+/*Fazer um programa para ler os valores dos coeficientes A, B e C de uma equação
+quadrática e calcular e imprimir o valor do discriminante (delta).*/
+
 #include <stdio.h>
 
 int main() {

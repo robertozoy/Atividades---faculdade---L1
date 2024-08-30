@@ -1,3 +1,6 @@
+/*Desenvolver um algoritmo para ler o nome, idade e peso de três pessoas. Calcular
+e imprimir idade e o peso médio das três pessoas.*/
+
 #include <stdio.h>
 
 int main() {

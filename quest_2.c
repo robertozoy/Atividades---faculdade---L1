@@ -1,3 +1,7 @@
+/*Um fabricante de latas deseja desenvolver um algoritmo para calcular o custo de
+uma lata cilíndrica de alumínio, sabendo-se que o custo do alumínio por m² é R$
+100,00.*/
+
 #include <stdio.h>
 #define PI 3.14159
 #define CUSTO_POR_METRO2 100.00

@@ -1,3 +1,6 @@
+/*Fazer um algoritmo que leia a idade de uma pessoa expressa em anos, meses e
+dias e mostre-a apenas em dias*/
+
 #include <stdio.h>
 
 int main() {

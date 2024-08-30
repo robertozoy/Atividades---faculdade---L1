@@ -1,3 +1,6 @@
+/*Desenvolver um algoritmo para ler os comprimentos dos três lados de um triângulo
+(L1, L2 e L3) e calcular a área do triângulo.*/
+
 #include <stdio.h>
 #include <math.h>
 

@@ -1,3 +1,6 @@
+/*Desenvolver um algoritmo para ler um número “x” e calcular e imprimir o valor de
+“y” de acordo com as condições abaixo: y=x, sex<1; y=0, sex=1; y = x², se x > 1; */
+
 #include <stdio.h>
 
 int main() {

@@ -1,3 +1,15 @@
+/*Desenvolver um algoritmo que determine o imposto de renda cobrado de um
+funcionário pelo governo. Seu programa deverá ler o valor do salário mínimo, o n°
+de dependentes, o salário do funcionário e a taxa de imposto normal que já foi
+paga pelo funcionário. O imposto bruto é:
+• 20% do salário do funcionário se o funcionário ganha mais de 12 salários
+mínimos;
+• 8% do salário do funcionário se o funcionário ganha mais de 5 salários mínimos
+e • Quem ganha menos ou igual de 5 salários mínimos não é cobrado o imposto
+de renda.
+Obs.: Sabe-se que o governo cobra 4% de taxa adicional sobre o IMPOSTO
+BRUTO.*/
+
 #include <stdio.h>
 
 int main() {

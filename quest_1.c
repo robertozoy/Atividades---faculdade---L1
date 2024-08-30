@@ -1,3 +1,7 @@
+/*O coração humano bate em média uma vez por segundo. Desenvolver um algoritmo
+para calcular e escrever quantas vezes o coração de uma pessoa baterá se viver X
+anos. Terá que saber os valores de batidas por ano, dia, hora e minuto.*/
+
 #include <stdio.h>
 
 int main() {

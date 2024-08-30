@@ -1,3 +1,6 @@
+/*Dados dois pontos A e B, cujas coordenadas A(x1, y1) e B(x2, y2) serão informadas
+via teclado, desenvolver um algoritmo que calcule a distância entre A e B.*/
+
 #include <stdio.h>
 #include <math.h>
 

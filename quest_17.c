@@ -1,3 +1,6 @@
+/*Desenvolver um algoritmo para ler o número de uma sala de aula, sua capacidade e o total de alunos matriculados na mesma e imprimir uma linha mostrando o número da sala, sua capacidade, o número de cadeiras ocupadas e sua disponibilidade indicando
+se a sala está lotada ou não.*/
+
 #include <stdio.h>
 
 int main() {
